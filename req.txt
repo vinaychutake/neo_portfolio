@@ -1,0 +1,5 @@
+django-admin-bootstrapped
+mysql-python
+django-admin-sortable
+pillow
+django-ckeditor
