@@ -44,6 +44,7 @@ aside{
 }
 .portfolio-box{
   width: 100%;
+  padding: 7px 0px;
 }
 .carousel-inner .item img{
   width: 100%;
@@ -63,4 +64,8 @@ aside{
 }
 .bg-dark{
   background-color: #000!important
+}
+.portfolio-box .portfolio-box-caption{
+  height: 91%;
+  margin: 12px 0px;
 }
