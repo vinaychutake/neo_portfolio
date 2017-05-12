@@ -1,0 +1,65 @@
+.bg-grey{
+	background-color: #0b2a44;
+}
+.thumbnail{
+	width: 100%;
+}
+.thumbnail-wrapper{
+    max-height: 235px;
+    overflow: hidden;
+}
+.author{
+	margin-left: 10px;
+}
+.project-title{
+	/*text-decoration: underline;*/
+}
+.project-desc{
+	margin:30px 0px;
+}
+.bg-primary{
+	background-color: #31708f !important;
+}
+.main-container{
+
+}
+p{
+	font-size: 14px;
+}
+aside{
+	padding: 5px 0px;
+}
+.published_date{
+    border-top: 1px solid;
+    padding-top: 3px;
+}
+.img-circle {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border-radius: 10%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover; 
+}
+.portfolio-box {
+    width: 95%;
+    margin: 12px;
+}
+
+.carousel-inner .item img{
+  width: 100%;
+}
+.sr-contact{
+  font-size: 20px;
+  margin-right: 10px;
+  position: relative;
+  top: 2px;
+}
+.contact-item{
+  display: inline-block;
+  margin-left: 10px;
+}
+.contact-item-box{
+  margin-top: 5px;
+}
