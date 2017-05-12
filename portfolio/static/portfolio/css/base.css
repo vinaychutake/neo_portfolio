@@ -18,7 +18,7 @@
 	margin:30px 0px;
 }
 .bg-primary{
-	background-color: #31708f !important;
+	background-color: #0b2a44 !important;
 }
 .main-container{
 
@@ -60,4 +60,7 @@ aside{
 }
 .contact-item-box{
   margin-top: 5px;
+}
+.bg-dark{
+  background-color: #000!important
 }
